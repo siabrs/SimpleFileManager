@@ -13,6 +13,12 @@
 		4FE216002A04F6810057FBC8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FE215FE2A04F6810057FBC8 /* Main.storyboard */; };
 		4FE216022A04F6830057FBC8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FE216012A04F6830057FBC8 /* Assets.xcassets */; };
 		4FE216052A04F6830057FBC8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FE216032A04F6830057FBC8 /* LaunchScreen.storyboard */; };
+		4FE216202A0506E80057FBC8 /* dog04.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4FE2161A2A0506E80057FBC8 /* dog04.JPG */; };
+		4FE216212A0506E80057FBC8 /* dog05.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4FE2161B2A0506E80057FBC8 /* dog05.JPG */; };
+		4FE216222A0506E80057FBC8 /* dog06.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4FE2161C2A0506E80057FBC8 /* dog06.JPG */; };
+		4FE216232A0506E80057FBC8 /* dog02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4FE2161D2A0506E80057FBC8 /* dog02.JPG */; };
+		4FE216242A0506E80057FBC8 /* dog03.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4FE2161E2A0506E80057FBC8 /* dog03.JPG */; };
+		4FE216252A0506E80057FBC8 /* dog01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4FE2161F2A0506E80057FBC8 /* dog01.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +30,12 @@
 		4FE216012A04F6830057FBC8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4FE216042A04F6830057FBC8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4FE216062A04F6830057FBC8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4FE2161A2A0506E80057FBC8 /* dog04.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog04.JPG; sourceTree = "<group>"; };
+		4FE2161B2A0506E80057FBC8 /* dog05.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog05.JPG; sourceTree = "<group>"; };
+		4FE2161C2A0506E80057FBC8 /* dog06.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog06.JPG; sourceTree = "<group>"; };
+		4FE2161D2A0506E80057FBC8 /* dog02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog02.JPG; sourceTree = "<group>"; };
+		4FE2161E2A0506E80057FBC8 /* dog03.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog03.JPG; sourceTree = "<group>"; };
+		4FE2161F2A0506E80057FBC8 /* dog01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog01.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,10 +73,24 @@
 				4FE215FC2A04F6810057FBC8 /* ViewController.swift */,
 				4FE215FE2A04F6810057FBC8 /* Main.storyboard */,
 				4FE216012A04F6830057FBC8 /* Assets.xcassets */,
+				4FE216192A0506E80057FBC8 /* Images */,
 				4FE216032A04F6830057FBC8 /* LaunchScreen.storyboard */,
 				4FE216062A04F6830057FBC8 /* Info.plist */,
 			);
 			path = SimpleFileManager;
+			sourceTree = "<group>";
+		};
+		4FE216192A0506E80057FBC8 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				4FE2161A2A0506E80057FBC8 /* dog04.JPG */,
+				4FE2161B2A0506E80057FBC8 /* dog05.JPG */,
+				4FE2161C2A0506E80057FBC8 /* dog06.JPG */,
+				4FE2161D2A0506E80057FBC8 /* dog02.JPG */,
+				4FE2161E2A0506E80057FBC8 /* dog03.JPG */,
+				4FE2161F2A0506E80057FBC8 /* dog01.JPG */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +151,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4FE216232A0506E80057FBC8 /* dog02.JPG in Resources */,
 				4FE216052A04F6830057FBC8 /* LaunchScreen.storyboard in Resources */,
 				4FE216022A04F6830057FBC8 /* Assets.xcassets in Resources */,
+				4FE216202A0506E80057FBC8 /* dog04.JPG in Resources */,
 				4FE216002A04F6810057FBC8 /* Main.storyboard in Resources */,
+				4FE216242A0506E80057FBC8 /* dog03.JPG in Resources */,
+				4FE216222A0506E80057FBC8 /* dog06.JPG in Resources */,
+				4FE216252A0506E80057FBC8 /* dog01.JPG in Resources */,
+				4FE216212A0506E80057FBC8 /* dog05.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

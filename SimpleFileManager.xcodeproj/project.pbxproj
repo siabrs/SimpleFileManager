@@ -19,6 +19,7 @@
 		4FE216232A0506E80057FBC8 /* dog02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4FE2161D2A0506E80057FBC8 /* dog02.JPG */; };
 		4FE216242A0506E80057FBC8 /* dog03.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4FE2161E2A0506E80057FBC8 /* dog03.JPG */; };
 		4FE216252A0506E80057FBC8 /* dog01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4FE2161F2A0506E80057FBC8 /* dog01.JPG */; };
+		4FE216272A05379F0057FBC8 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FE216262A05379F0057FBC8 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		4FE2161D2A0506E80057FBC8 /* dog02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog02.JPG; sourceTree = "<group>"; };
 		4FE2161E2A0506E80057FBC8 /* dog03.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog03.JPG; sourceTree = "<group>"; };
 		4FE2161F2A0506E80057FBC8 /* dog01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog01.JPG; sourceTree = "<group>"; };
+		4FE216262A05379F0057FBC8 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				4FE215F82A04F6810057FBC8 /* AppDelegate.swift */,
 				4FE215FA2A04F6810057FBC8 /* SceneDelegate.swift */,
 				4FE215FC2A04F6810057FBC8 /* ViewController.swift */,
+				4FE216262A05379F0057FBC8 /* DetailViewController.swift */,
 				4FE215FE2A04F6810057FBC8 /* Main.storyboard */,
 				4FE216012A04F6830057FBC8 /* Assets.xcassets */,
 				4FE216192A0506E80057FBC8 /* Images */,
@@ -173,6 +176,7 @@
 				4FE215FD2A04F6810057FBC8 /* ViewController.swift in Sources */,
 				4FE215F92A04F6810057FBC8 /* AppDelegate.swift in Sources */,
 				4FE215FB2A04F6810057FBC8 /* SceneDelegate.swift in Sources */,
+				4FE216272A05379F0057FBC8 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -34,6 +34,8 @@ class ViewController: UITableViewController {
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "Picture", for: indexPath)
         cell.textLabel?.text = pictures[indexPath.row]
+        let image : UIImage = UIImage(systemName: "photo") ?? UIImage(systemName: "")!
+        cell.imageView?.image = image
         return cell
     }
 
